@@ -1,6 +1,6 @@
-# FASTMovie V1 REST API
+# rail-town V1 REST API
 
-Rest-ful API for movie platform
+Rest-ful API for railtown platform
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ A step by step guide that will tell you how to get the development environment u
 
 ```
 $ git clone https://github.com/soshika/fastmovieAPI.git
-$ cd fastmovieAPI
+$ cd railtown-api
 $ docker-compose build
 $ docker-compose up -d
 ```
