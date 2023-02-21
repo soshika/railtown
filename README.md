@@ -19,7 +19,7 @@ The things you need before installing the software.
 A step by step guide that will tell you how to get the development environment up and running.
 
 ```
-$ git clone https://github.com/soshika/fastmovieAPI.git
+$ git clone https://github.com/soshika/railtown.git
 $ cd railtown-api
 $ docker-compose build
 $ docker-compose up -d
